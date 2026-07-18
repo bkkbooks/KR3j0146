@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR3j0146_000-WYG.yaml, hash: 'sha256:85efd7adae56a1ec79c88107c3b08fe81719092302f4a8c365d942e9f9e2a2eb'}
   - {seq: 1, filename: KR3j0146_001-WYG.yaml, hash: 'sha256:8a185dd6e84fe1193d672d645ec89d18a81c14ffd6d57413c50130cb5d3d7662'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0146_000-WYG.markers.yaml, hash: 'sha256:e0c056955478147c273ffddc0328e39877d81c87c21d7a1e7c5086ff9604a1d3'}
-  - {seq: 1, role: markers, filename: assets/KR3j0146_001-WYG.markers.yaml, hash: 'sha256:ca3ad1a68b9ace70879fafa42788704414246bffec141e2566502ae5b582a134'}
+  - {seq: 0, role: markers, filename: assets/KR3j0146_000-WYG.markers.yaml, hash: 'sha256:1b35f35cf0a2344ef30262dc4806467722cedba7c6240796008aded354b65ea8'}
+  - {seq: 1, role: markers, filename: assets/KR3j0146_001-WYG.markers.yaml, hash: 'sha256:720bc82aa378fa23623352c5b32c2d2ea773b4f08d13c0b3780d0cced26f5fbf'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 雪履齋筆記
   type: section
   level: 1
-hash: sha256:e5cdd176ff565300c92457560b0d62ccc248073e8b5afba64b23cfa44875e601
+hash: sha256:0ad4ff37d0cc7609317709e1b74dd12ff27d1494477b0cf6d5f29c56bf4f8a4b

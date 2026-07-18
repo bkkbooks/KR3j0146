@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3j0146_000.yaml, hash: 'sha256:18d5d3d76cfd5c8a08a727ceb32caabbb9d2e6d74ce6cfafd87c2b7bce0127e5'}
   - {seq: 1, filename: KR3j0146_001.yaml, hash: 'sha256:36cfee9cf455f756047d05c770bcbf50fd9d4d5c22b8ce3ec78c727cbabff786'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0146_000.markers.yaml, hash: 'sha256:3c7be99f035310c4e7a15b9c0111c00c22330e8b93b55194035c9ec79c8f564a'}
-  - {seq: 1, role: markers, filename: assets/KR3j0146_001.markers.yaml, hash: 'sha256:40af6ecc591fcd6ccc8a3cbc606b7ad577ccdfdb99e63f9c41412539de39155e'}
+  - {seq: 0, role: markers, filename: assets/KR3j0146_000.markers.yaml, hash: 'sha256:ca2746da8c2cc10234ef8e1aacc574dfbc654b488053626bc0b6042b00447134'}
+  - {seq: 1, role: markers, filename: assets/KR3j0146_001.markers.yaml, hash: 'sha256:105dd02e7223283f84d423e5d3ac9fbca64047c1daeee983e0430cc23b0a3756'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 雪履齋筆記
   type: section
   level: 1
-hash: sha256:155f3ad63e6bf360d56b7020093c2433c9759a79f556d22bf498df0d6ec86e13
+hash: sha256:1dd00c47ef5f517c4dfcfafa747162f28f8d54a8949d68bfc1735ff9c4d2709c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
